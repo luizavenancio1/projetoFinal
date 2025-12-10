@@ -5,15 +5,25 @@ Este é o nosso projeto final da disciplina, feito em Kotlin. O objetivo do app 
 Tecnologias usadas
 
 Kotlin
+
 Android Studio
 
+
 O que o app faz
+
 Mostra dicas de sustentabilidade
+
 Usa ViewModel para organizar o código
+
+API usada: sustentabilidade-api-8lua.onrender.com/tips
 
 👥 Integrantes do projeto
 Ana Luiza
+
 Demetrius 
+
 Feliphe Kauan
+
 Juliana 
+
 Jadson
