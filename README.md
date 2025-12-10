@@ -2,14 +2,14 @@ Projeto Final – Aplicativo de Sustentabilidade
 
 Este é o nosso projeto final da disciplina, feito em Kotlin. O objetivo do app é mostrar dicas de sustentabilidade de forma simples e prática.
 
-Tecnologias usadas
+Tecnologias usadas:
 
 Kotlin
 
 Android Studio
 
 
-O que o app faz
+O que o app faz:
 
 Mostra dicas de sustentabilidade
 
@@ -17,7 +17,7 @@ Usa ViewModel para organizar o código
 
 API usada: sustentabilidade-api-8lua.onrender.com/tips
 
-👥 Integrantes do projeto
+Integrantes do projeto:
 Ana Luiza
 
 Demetrius 
